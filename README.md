@@ -1,21 +1,22 @@
 # scoreSystem
 
 ```shell
-學生人數:2
-輸入名字:Alice
-輸入國文成績:96
-輸入英文成績:85
-輸入數學成績:72
-輸入物理成績:81
-輸入程式成績:84
-輸入名字:Bob
-輸入國文成績:81
-輸入英文成績:75
-輸入數學成績:93
-輸入物理成績:89
-輸入程式成績:96
-姓      名 國  文 英  文 數  學 物  理 程  式 總  分 平  均
-     Alice     96     85     72     81     84    418   83.6
-       Bob     81     75     93     89     96    434   86.8
+Please enter the number of courses: 2
+Course 1 name: English
+Course 2 name: Math
+
+Please enter the number of students: 2
+Name of Student #0: Alice
+English score: 94
+Math score: 82
+
+Name of Student #1: Bob
+English score: 76
+Math score: 96
+
+
+        Name      English         Math        Total      Average
+       Alice           94           82          176           88
+         Bob           76           96          172           86
 Press any key to continue . . .
 ```
